@@ -1,0 +1,1 @@
+# We're going to set up a WordPress website on AWS, and we'll be leveraging Terraform to define our infrastructure as code. Our WordPress site will be backed by an Amazon RDS (Relational Database Service) for scalable and managed database storage.
